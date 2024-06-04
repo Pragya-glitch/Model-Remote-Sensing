@@ -1,1 +1,1 @@
-# Model-Remote-Sensing
+# Model-Remote-Sensing - generative AI
